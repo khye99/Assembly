@@ -1,4 +1,4 @@
-//Lab 12
+
 #include "assignment12.h"  // Declarations for ASM functions
 #include "printRegs.h"     // Print registers for debugging
 #include "pprintf.h"       // Include macro to do simple formatted printing (See: https://en.wikipedia.org/wiki/Printf_format_string)
